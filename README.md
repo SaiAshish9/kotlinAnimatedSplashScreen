@@ -1,4 +1,4 @@
-## Add this statement at defaultConfig build.gradle
+## Add this statement at defaultConfig of build.gradle
 
 ```
 configurations.all {
