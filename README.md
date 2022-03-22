@@ -10,4 +10,12 @@ configurations.all {
 
 ```
 implementation 'com.airbnb.android:lottie:3.4.1'
-``
+```
+
+## Assets
+
+```
+1. https://lottiefiles.com/99681-phone-ringing-animation#
+
+2. 
+```
